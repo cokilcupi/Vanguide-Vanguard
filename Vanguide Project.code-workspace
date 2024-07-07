@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "codespaces-react",
+			"uri": "vscode-remote://codespaces+fluffy-robot-jj494p4vx9vjfpr5g/workspaces/codespaces-react"
+		}
+	],
+	"remoteAuthority": "codespaces+fluffy-robot-jj494p4vx9vjfpr5g",
+	"settings": {
+		"liveServer.settings.port": 5507
+	}
+}
